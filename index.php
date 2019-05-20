@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php 
- echo '<p>Hello World</p>';
+ echo '<p>Hello Bank Connect</p>';
  echo '<p>Test</p>';
  echo '<p>Welcome Sai</p>';
  echo '<p>Hello Tushar</p>';
